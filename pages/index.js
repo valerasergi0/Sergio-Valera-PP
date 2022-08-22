@@ -148,20 +148,6 @@ export default function Home() {
 											</div>
 											<div className={utilStyles.col4 + ' ' + utilStyles.col6medium + ' ' + utilStyles.col12small}>
 												<section className={utilStyles.box + ' ' + "box"}>
-													<a href="#" className={utilStyles.image + ' ' + utilStyles.featured}><img src="images/pic06.jpg" alt="" /></a>
-													<header>
-														<h3>Drum machine</h3>
-													</header>
-													<p>Juega con esta batería virtual y prueba tus habilidades.</p>
-													<footer>
-														<ul className={utilStyles.actions + ' ' + "actions"}>
-															<li><a href="#" className={utilStyles.button + ' ' + utilStyles.alt + ' ' + butt.join(" ")}>Pruébalo</a></li>
-														</ul>
-													</footer>
-												</section>
-											</div>
-											<div className={utilStyles.col4 + ' ' + utilStyles.col6medium + ' ' + utilStyles.col12small}>
-												<section className={utilStyles.box + ' ' + "box"}>
 													<a href="https://zoltan199.github.io/Cash-register/cid.html" className={utilStyles.image + ' ' + utilStyles.featured}><img className='img1' src="images/cash-register.png" alt="" /></a>
 													<header>
 														<h3>Cash register</h3>
